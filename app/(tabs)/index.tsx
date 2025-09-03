@@ -17,8 +17,8 @@ export default function HomeScreen() {
         />
       }>
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title"darkColor='#DD2C00'>Hola Mundo!</ThemedText>
-        <HelloWave />
+        <ThemedText type="title"darkColor='#DD2C00'>Hola Mundo! 🫦</ThemedText>
+        
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
         <ThemedText type="subtitle">Step 1: Try it</ThemedText>
